@@ -3,6 +3,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/wolgrand_10?igsh=MW9zOXR1bWd1MGF5eQ==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/wolgrand-ara%C3%BAjo-7302a3353/)
 
 ![Wolgrand GitHub stats](https://github-readme-stats.vercel.app/api?username=WolgrandAP&show_icons=true&theme=dracula)
 
