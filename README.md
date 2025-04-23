@@ -24,3 +24,5 @@ ainda mais com oportunidades práticas no mercado de trabalho.
 
 
 - Gmail: [wolgrand.tecdev@gmail.com](wolgrand.tecdev@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WolgrandAP&label=Profile%20views&color=0e75b6&style=flat" alt="WolgrandAP" /> </p>
+
