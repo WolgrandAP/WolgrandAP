@@ -1,5 +1,8 @@
 
 ## Meu perfil de Full Stack Developer
+Me chamo Wolgrand e busco realizar meu sonho de ser um grande programador full-stack a partir dos
+conhecimentos e experiências que adquiri ao longo da minha jornada acadêmica, e aprender
+ainda mais com oportunidades práticas no mercado de trabalho.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/wolgrand_10?igsh=MW9zOXR1bWd1MGF5eQ==)
