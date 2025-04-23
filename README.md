@@ -8,6 +8,7 @@ ainda mais com oportunidades práticas no mercado de trabalho.
 )](https://www.instagram.com/wolgrand_10?igsh=MW9zOXR1bWd1MGF5eQ==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/wolgrand-ara%C3%BAjo-7302a3353/)
+- Gmail: [wolgrand.tecdev@gmail.com](wolgrand.tecdev@gmail.com)
 
 ![Wolgrand GitHub stats](https://github-readme-stats.vercel.app/api?username=WolgrandAP&show_icons=true&theme=dracula)
 
@@ -23,6 +24,5 @@ ainda mais com oportunidades práticas no mercado de trabalho.
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-- Gmail: [wolgrand.tecdev@gmail.com](wolgrand.tecdev@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WolgrandAP&label=Profile%20views&color=0e75b6&style=flat" alt="WolgrandAP" /> </p>
 
